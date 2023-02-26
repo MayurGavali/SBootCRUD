@@ -10,7 +10,11 @@ public class CruddemoApplication {
 		SpringApplication.run(CruddemoApplication.class, args);
 
 		System.out.println("Welcome to the Spring Boot CRUD");
+
+		System.out.println("Test 1");
+		
 		System.out.println("Welcome to the Spring Boot CRUD");
+
 	}
 
 }
